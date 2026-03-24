@@ -1,4 +1,4 @@
-# HW3: Linear Models
+# HW4: Linear Models
 
 This folder contains my submission for Homework 3: Linear Models.
 
